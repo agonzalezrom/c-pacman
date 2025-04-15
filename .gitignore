@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+*.o
+*.out
+$(TARGET)
+pacman_clone
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor generated files
+*.swp
+*~
+*.bak
+.vscode/ 
